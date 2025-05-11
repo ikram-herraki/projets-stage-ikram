@@ -13,11 +13,6 @@
 
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
-        <style>
-        body { background-color: #f8f9fa; font-family: 'Cairo', sans-serif; }
-        .navbar-brand img { height: 40px; }
-        .nav-link { display: flex; align-items: center; gap: 5px; }
-    </style>
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
