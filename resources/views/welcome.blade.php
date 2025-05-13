@@ -172,8 +172,7 @@
                         width: 100%;
                     }
                 }
-            </style>
-        
+            </style>  
     </head>
     <body class="dark:bg-[#0f172a]">
         <header class="not-has-[nav]:hidden">
@@ -197,7 +196,6 @@
                 </nav>
             @endif
         </header>
-
         <main class="main-content">
             <div class="hero">
                 <h1>Welcome to Your Application</h1>
@@ -205,4 +203,5 @@
             </div>
         </main>
     </body>
-</html>
+    </html>
+
